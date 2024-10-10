@@ -3,7 +3,7 @@ import os
 #clear screen 
 os.system ('cls')
 # import d4Module.py to access the list of variables 
-import d4Moudule
+import py100.d4.d4Moudule as d4Moudule
 # import d4Lists 
 import d4Lists
 
